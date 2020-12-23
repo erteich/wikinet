@@ -11,7 +11,7 @@ import scipy as sp
 import pandas as pd
 import dionysus as d
 import networkx as nx
-import cpalgorithm as cpa
+import cpnet as cpa
 import gensim.utils as gu
 import gensim.models as gm
 import gensim.matutils as gmat
